@@ -1,0 +1,6 @@
+/mysql
+/phpmyadmin
+
+/html
+!.htaccess
+!info.php
